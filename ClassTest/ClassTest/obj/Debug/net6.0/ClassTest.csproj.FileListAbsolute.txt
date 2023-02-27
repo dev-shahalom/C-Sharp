@@ -1,0 +1,15 @@
+D:\CODING\C-Sharp\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.exe
+D:\CODING\C-Sharp\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.deps.json
+D:\CODING\C-Sharp\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.runtimeconfig.json
+D:\CODING\C-Sharp\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.dll
+D:\CODING\C-Sharp\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.pdb
+D:\CODING\C-Sharp\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.csproj.AssemblyReference.cache
+D:\CODING\C-Sharp\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\C-Sharp\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.AssemblyInfoInputs.cache
+D:\CODING\C-Sharp\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.AssemblyInfo.cs
+D:\CODING\C-Sharp\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.csproj.CoreCompileInputs.cache
+D:\CODING\C-Sharp\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.dll
+D:\CODING\C-Sharp\ClassTest\ClassTest\obj\Debug\net6.0\refint\ClassTest.dll
+D:\CODING\C-Sharp\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.pdb
+D:\CODING\C-Sharp\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.genruntimeconfig.cache
+D:\CODING\C-Sharp\ClassTest\ClassTest\obj\Debug\net6.0\ref\ClassTest.dll
